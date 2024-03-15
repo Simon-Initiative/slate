@@ -395,11 +395,7 @@ export const Node: NodeInterface = {
       const p = path[i]
 
       if (Text.isText(node) || !node.children[p]) {
-        throw new Error(
-          `Cannot find a descendant at path [${path}] in node: ${Scrubber.stringify(
-            root
-          )}`
-        )
+        return node;
       }
 
       node = node.children[p]
