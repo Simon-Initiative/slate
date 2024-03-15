@@ -1,0 +1,1 @@
+{"version":3,"file":"is-normalizing.js","sourceRoot":"","sources":["../../src/editor/is-normalizing.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,WAAW,EAAE,MAAM,oBAAoB,CAAA;AAEhD,MAAM,CAAC,MAAM,aAAa,GAAqC,MAAM,CAAC,EAAE;IACtE,MAAM,aAAa,GAAG,WAAW,CAAC,GAAG,CAAC,MAAM,CAAC,CAAA;IAC7C,OAAO,aAAa,KAAK,SAAS,CAAC,CAAC,CAAC,IAAI,CAAC,CAAC,CAAC,aAAa,CAAA;AAC3D,CAAC,CAAA"}

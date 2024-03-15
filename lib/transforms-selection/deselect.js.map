@@ -1,0 +1,1 @@
+{"version":3,"file":"deselect.js","sourceRoot":"","sources":["../../src/transforms-selection/deselect.ts"],"names":[],"mappings":"AAEA,MAAM,CAAC,MAAM,QAAQ,GAAoC,MAAM,CAAC,EAAE;IAChE,MAAM,EAAE,SAAS,EAAE,GAAG,MAAM,CAAA;IAE5B,IAAI,SAAS,EAAE;QACb,MAAM,CAAC,KAAK,CAAC;YACX,IAAI,EAAE,eAAe;YACrB,UAAU,EAAE,SAAS;YACrB,aAAa,EAAE,IAAI;SACpB,CAAC,CAAA;KACH;AACH,CAAC,CAAA"}
